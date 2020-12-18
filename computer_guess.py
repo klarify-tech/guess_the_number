@@ -1,5 +1,6 @@
 import random
 #Creating a global loop for multiple iterations
+#Adding a simple logic
 game = "yes"
 while(game == "yes"):
     print("Guess a number between 1 and 100")
